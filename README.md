@@ -7,7 +7,7 @@
 1. Immernoch gleich wie letztes mal.
 2. Ich habe mir vorgenommen mich mehr auf das Programmieren zu konzentrieren. Ich finde ich habe das gut gemacht.
 3. Ich will neue Classes lernen
-4. Eigene exeptions
+4. Eigene exeptions erstellen können.
 
 ## 23.2.2024
 
@@ -16,10 +16,10 @@ neue Classes kennenzulernen, weil es mir beim verständnis von C# hilft. Ich gla
 
 ## 27.2.2024
 
-- [ ] Dokumentation lesen
-- [ ] Tutorial lesen
-- [ ] Classes testen
-- [ ] an Modul arbeiten
+- [ ] Dokumentation lesen https://learn.microsoft.com/de-de/dotnet/csharp/fundamentals/tutorials/classes
+- [ ] Tutorial schauen https://youtu.be/t2SPg6IuT3k?si=njZDGS6Ey6U8LIgc
+- [ ] Classes erstellen 
+- [ ] an Aufträgen von nächster Woche arbeiten.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |

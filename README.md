@@ -28,7 +28,7 @@ neue Classes kennenzulernen, weil es mir beim verständnis von C# hilft. Ich gla
 | 3               |    Klassen           |  Testen        |    Erfolgreich |          |
 | 4               |    Modul             |  Arbeiten      | Ziel erreicht  |           |
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mich mit den Classes beschäftigt. Ich weiss jetzt wie man eine eigene erstellt und habe es dann probiert. Danach habe ich meine Dokumentation im Modul 187 weiter gemacht. (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 

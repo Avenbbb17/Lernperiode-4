@@ -36,7 +36,7 @@ Heute habe ich mich mit den Classes beschäftigt. Ich weiss jetzt wie man eine e
 - [ ]  Modul 106
 - [ ]   Modul 106
 
-Ich war in der letzen Stunden beim Modul 106 nich dabei. Heute habe ich die Aufträge nachgeholt. Ich habe mich mit den SQL befehlen Joins beschäftigt und den Moodletest gemacht. Ich war mit dem ersten Ergebnis nicht zufrieden, weil ich 1.5 Punkte von drei hatte. Hoffentlich klappt es beim zweiten versuch. Ich habe aber trotzdem ein besseres verständnis für das SQL. Als ich meine SQL Arbeit reflektiert habe, habe ich gemerkt das ich mich das logische Datenmodel noch einmal anschauen muss. Damit ich in Zukunft keine Probleme damit habe.
+Ich war in der letzen Stunden beim Modul 106 nich dabei. Heute habe ich die Aufträge nachgeholt. Ich habe mich mit den SQL befehlen Joins beschäftigt und den Moodletest gemacht. Ich war mit dem ersten Ergebnis nicht zufrieden, weil ich 1.5 Punkte von drei hatte. Hoffentlich klappt es beim zweiten versuch. Ich habe aber trotzdem ein besseres verständnis für das SQL. Als ich meine SQL Arbeit reflektiert habe, habe ich gemerkt das ich mich das logische Datenmodel noch einmal anschauen muss. Damit ich in Zukunft keine Probleme damit habe. (80)
 ## 22.03.2024
 - [ ] Video bearbeiten lernen: https://www.youtube.com/watch?v=seenZS6unp0&ab_channel=ThinkMedia
 - [ ] Testen:
@@ -45,12 +45,21 @@ Ich war in der letzen Stunden beim Modul 106 nich dabei. Heute habe ich die Auft
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   Video    |  Schauen       |   Verständnis  |          |
-| 2               |   Testen      |   Bearbeiten       |   Erfolgreich  |        |
-| 3               |        Tonbearbeiten  |  Ton gut      |    Erfolgreich |        |
-| 4               |    Teilen und  Veröffentlichen   | Geteilt       | Erfolgreich  |        |
+| 1               |   Video    |  Schauen       |   Verständnis  |      erfüllt    |
+| 2               |   Testen      |   Bearbeiten       |   Erfolgreich  | erfüllt        |
+| 3               |        Tonbearbeiten  |  Ton gut      |    Erfolgreich |   erfüllt      |
+| 4               |    Teilen und  Veröffentlichen   | Geteilt       | Erfolgreich  |   nicht erfüllt      |
 
+Heute habe ich mich mit dem Video bearbeiten beschäftigt. Ich habe ein Lernvideo zur Video und Tonbeartbeitung angeschaut und ich habe mit dem Programm Premier Pro gearbeitet. Ich habe es mit einem Beispielvideo getestet und klappte am anfang nicht mit dem bearbeiten nicht so wie geplant, aber mit der Zeit habe ich es verstanden. Die Tonbearbeitung war relativ leicht ich musste nur die Audio in mein Programm tun und das hat es für mich getan. Zum teilen bin ich leider aber noch nicht gekommen. (60)
 
+## 05.04.2024
+- [ ] Podcast Videobearbeitung
+- [ ] Podcast Tonbearbeitung
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   Videobearbeitung  |  Bearbeiten    |   Video gut |          |
+| 2               |   Tonbearbeitung   |   Bearbeiten       |   Ton gut  |        |
 
 
 ## Reflexion

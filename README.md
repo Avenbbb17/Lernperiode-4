@@ -42,7 +42,8 @@ Ich war in der letzen Stunden beim Modul 106 nich dabei. Heute habe ich die Auft
 - [ ] Testen:
 - [ ] Tonbearbeitung
 - [ ] Teilen und Veröffentlichen
-      | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |   Video    |  Schauen       |   Verständnis  |          |
 | 2               |   Testen      |   Bearbeiten       |   Erfolgreich  |        |

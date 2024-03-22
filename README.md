@@ -38,7 +38,7 @@ Heute habe ich mich mit den Classes beschäftigt. Ich weiss jetzt wie man eine e
 
 Ich war in der letzen Stunden beim Modul 106 nich dabei. Heute habe ich die Aufträge nachgeholt. Ich habe mich mit den SQL befehlen Joins beschäftigt und den Moodletest gemacht. Ich war mit dem ersten Ergebnis nicht zufrieden, weil ich 1.5 Punkte von drei hatte. Hoffentlich klappt es beim zweiten versuch. Ich habe aber trotzdem ein besseres verständnis für das SQL. Als ich meine SQL Arbeit reflektiert habe, habe ich gemerkt das ich mich das logische Datenmodel noch einmal anschauen muss. Damit ich in Zukunft keine Probleme damit habe.
 ## 22.03.2024
-- [ ] Video bearbeiten lernen:
+- [ ] Video bearbeiten lernen: https://www.youtube.com/watch?v=seenZS6unp0&ab_channel=ThinkMedia
 - [ ] Testen:
 - [ ] Tonbearbeitung
 - [ ] Teilen und Veröffentlichen

@@ -61,7 +61,9 @@ Heute habe ich mich mit dem Video bearbeiten beschäftigt. Ich habe ein Lernvide
 | 1               |   Videobearbeitung  |  Bearbeiten    |   Video gut |          |
 | 2               |   Tonbearbeitung   |   Bearbeiten       |   Ton gut  |        |
 
+Heute habe ich mich nicht an den Arbeitspaketen gearbeitet, weil ich die Videos die ich bearbeiten wollte nicht bereit waren. Dafür habe ich aber meinen alten Code von der Lernperiode 3 verbessert. Ich habe 2 neue Sachen hinzugefügt und zwar eine Rangliste und die Möglichkeit sich zwischen Schweiz-QUiz und Europa-Quiz zu entscheiden. (41)
+
 
 ## Reflexion
+Ich habe mir am anfang vorgenommen neue Classes zu lernen und anzuwenden. Ich habe es auch geschafft und jetzt kann ich ohne viel Mühe Classes erstellen und benutzen. Eigentlich wollte ich im Lernatelier nur programmieren, aber aus Krankheitsfällen musste ich die Moudularbeiten nachholen und ich konnte leider nicht so viel programmieren. Am ende der Lernperiode habe ich mir vorgenommen Videos zu bearbeiten. Das hat schon spass gemacht und es war nicht so viel Arbeit. Am schluss habe ich noch einbisschen Programmiert. Ich habe meinen Code von der Lernperiode-3 ausgeschmückt und dabei konnte ich noch Classes anwenden. Jetzt hat es mehr als eine Kategorie von Fragen und ich habe noch eine Rangliste hinzugefügt. Die Rangliste zeigt wer am meisten Fragen richtig beantworten konnte. Ich wollte noch die Ranglisten nach Kategorie trennen, aber das habe ich leider nicht hingekriegt. Als Verbesserungsvorschlag habe ich das ich mich darauf konzentriere mich gut auf das zweite Jahr vorbereite. (132)
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
